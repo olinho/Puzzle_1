@@ -1,0 +1,16 @@
+Requirements:
+a) Input:
+- each line contains < 1000 characters
+- up to 100 files
+- files in one directory
+- sum of lines from all input: 0 - 214.748.363
+- sum of all characters = 214.748.363.000
+1character = 8bits = 1Bajt
+26.214.400 kB = 26.214 MB = 26GB?
+
+Sollution:
+Let's adjust requirements to reasonable size.
+All lines = 1000
+Files = 100
+Each line contains 1000 characters
+Sum of chars = 10^6 
